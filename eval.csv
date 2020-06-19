@@ -1,0 +1,1048 @@
+intent,utterance
+body_related_question,Can you chew?
+body_related_question,Can you fart?
+body_related_question,Do you ever fart?
+body_related_question,Do you have bowels?
+body_related_question,Can you get hurt?
+body_related_question,Do you ever dream
+body_related_question,Do you pee?
+body_related_question,Do you ever crawl?
+body_related_question,Do you have eyes?
+body_related_question,Do you have intestines?
+body_related_question,Can you get tired?
+body_related_question,Do you vomit?
+body_related_question,Do you ever eat?
+body_related_question,Can you sweat?
+body_related_question,Do you ever burp?
+body_related_question,Do you ever vomit?
+body_related_question,Can you breathe
+body_related_question,Do you ever sneeze?
+body_related_question,Can you dream
+body_related_question,Can you throw up?
+body_related_question,can you masticate?
+body_related_question,Do you ever yawn?
+body_related_question,Can you burp?
+body_related_question,Can you vomit?
+body_related_question,do you ever masticate?
+body_related_question,Do you have fingernails?
+body_related_question,Do you have skin?
+body_related_question,Do you ever poop?
+body_related_question,Do you ever get hurt?
+body_related_question,Do you cry?
+body_related_question,Do you eat?
+body_related_question,Do you ever cry?
+body_related_question,Do you ever sweat?
+body_related_question,Don't you ever masticate?
+body_related_question,Do you sweat?
+body_related_question,Can you sneeze?
+body_related_question,Do you get zits?
+body_related_question,Do you throw up?
+body_related_question,Do you have a liver?
+body_related_question,Do you dream
+body_related_question,Can you eat?
+body_related_question,Do you ever get tired?
+body_related_question,Can you crawl?
+body_related_question,Do you ever throw up?
+body_related_question,Can you poop?
+body_related_question,Do you crawl?
+body_related_question,Do you have legs?
+body_related_question,Can you cry?
+body_related_question,Do you have lungs?
+body_related_question,Don't you ever sleep? 
+body_related_question,Do you ever chew?
+body_related_question,Do you masticate?
+body_related_question,Do you have hair?
+body_related_question,Do you have fingers?
+body_related_question,Can you walk?
+body_related_question,Can you yawn?
+body_related_question,Do you ever breathe
+body_related_question,Do you get tired?
+body_related_question,Do you have arms?
+body_related_question,Do you ever walk
+body_related_question,Do you yawn?
+body_related_question,Do you burp?
+body_related_question,Do you poop?
+body_related_question,Do you fart?
+ask_purpose,Tell me what you do
+ask_purpose,what can you help me with
+ask_purpose,What are your bot capabilities?
+ask_purpose,Can you explain to me what your role is?
+ask_purpose,With what can you help me
+ask_purpose,What tasks are you designed for?
+ask_purpose,What are you supposed to do?
+ask_purpose,So what is it that you do?
+ask_purpose,What can you do then
+ask_purpose,What do you do exactly?
+ask_purpose,Can you tell me about you?
+ask_purpose,What exactly do you do?
+ask_purpose,What would you say you do here?
+ask_purpose,What skills do you have?
+ask_purpose,What's your function?
+ask_purpose,What can you do to assist me?
+ask_purpose,You do what again?
+ask_purpose,Talk to me about your capability
+ask_purpose,Could you help me?
+ask_purpose,Do you do anything?
+ask_purpose,what do you have responses for?
+ask_purpose,What are you designed to do?
+ask_purpose,what kind of responses can you give ?
+ask_purpose,What are your functions
+ask_purpose,What are you capable of?
+ask_purpose,What sorts of things can you do?
+ask_purpose,What can you demo?
+ask_purpose,What are your skills?
+ask_purpose,How do I make this thing work?
+ask_purpose,What do you do?
+ask_purpose,What are you designed for?
+ask_purpose,What can you tell me about
+ask_purpose,What is your function?
+ask_purpose,So how can I use you in my projects?
+ask_purpose,What can you do ? 
+ask_purpose,What kinds of things can you do?
+ask_purpose,What can you help me with?
+ask_purpose,What are you good for?
+ask_purpose,Can you tell me a bit about yourself?
+ask_purpose,What kind of thing can you respond to?
+ask_purpose,What are the things you can do?
+ask_purpose,And you do what exactly?
+ask_purpose,What do you do again?
+ask_purpose,What are you made for?
+ask_purpose,What are you expected to do?
+ask_purpose,What were you designed to do?
+ask_purpose,How can you help?
+ask_purpose,what do you have a response for
+ask_purpose,You do what exactly?
+ask_purpose,Which are your functions
+ask_purpose,What's your purpose?
+ask_purpose,How do  you work?
+ask_purpose,What were you made to do?
+ask_purpose,So what can you do?
+ask_purpose,Tell me everything you can do
+get_location,Where are you from?
+get_location,Which country are you in? 
+get_location,Where do you go when you leave work?
+get_location,Do you live in a house? 
+get_location,Where are you?
+get_location,What is your physical location?
+get_location,Are you far away? 
+get_location,Tell me what country you live in
+get_location,Where is your humble abode?
+get_location,Do you have an address? 
+get_location,Which state are you in?
+get_location,What state are you from?
+get_location,What town do you live in?
+get_location,Are you near? 
+get_location,Do you have a house? 
+get_location,Can you tell me where you are?
+get_location,Share your location
+get_location,What city do you live in?
+get_location,Tell me what city you're in
+get_location,I want to know where your home is
+get_location,Are you nearby? 
+get_location,Do you have a physical location? 
+get_location,I want to know where you live
+get_location,Do you have a home?
+get_location,Do you live in the cloud? 
+get_location,What's your 20?
+get_location,So where are you from?
+get_location,I would like to know where you are
+get_location,What's your 20 over
+get_location,Where are you located?
+get_location,Can you tell me which city you're in?
+get_location,What country do you live in?
+get_location,Share your location with me
+get_location,Where can I find you? 
+get_location,What country are you from?
+get_location,Are you at a call center?
+get_location,Are you local?
+get_location,Do you live near me? 
+get_location,What town are you from?
+get_location,What is your location?
+get_location,Which city are you in? 
+get_location,Are you near me? 
+get_location,Where in the world are you?
+get_location,Are you in the cloud? 
+get_location,What state are you in?
+get_location,Can you tell me your location? 
+get_location,Where's your house?
+get_location,Describe where you are
+get_location,What are your coordinates? 
+get_location,How can I find you? 
+get_location,Explain where you are
+get_location,What is the location of your home?
+get_location,What is your address? 
+get_location,Do you live in a server? 
+get_location,Tell me what country you're in
+get_location,Where do you live?
+get_location,Do you live nearby? 
+make_sing,Can you sing something for me?
+make_sing,Sing
+make_sing,May I please hear your singing voice?
+make_sing,Have you ever sung a song? 
+make_sing,Will you sing with me
+make_sing,Sing me a tune
+make_sing,Won't you sing me a ditty?
+make_sing,Do you know how to hum a song
+make_sing,Sing me something
+make_sing,Why don't you sing for me?
+make_sing,I need to hear you sing
+make_sing,I would really enjoy hearing you sing a pretty song
+make_sing,What's a song you know how to sing? 
+make_sing,I would love for you to sing to me
+make_sing,Sing me your favorite song
+make_sing,I'd love a song
+make_sing,Can I hear your singing voice?
+make_sing,Do you know how to sing
+make_sing,Will you sing a tune for me
+make_sing,Will you sing to me?
+make_sing,Would you like to sing for me? 
+make_sing,Try and sing to me
+make_sing,Go ahead and sing
+make_sing,Sing a tune 
+make_sing,Sing me a little ditty
+make_sing,Would you like to sing?
+make_sing,Why don't you sing me a song?
+make_sing,Won't you sing to me?
+make_sing,What do you like to sing best? 
+make_sing,Won't you sing me a song?
+make_sing,Will you hum a tune?
+make_sing,Come on sing a song
+make_sing,Do you sing? 
+make_sing,Will you sing something?
+make_sing,I would appreciate if you sang a song?
+make_sing,Will you hum a tune for me?
+make_sing,Sing something to me 
+make_sing,You better start singing
+make_sing,Can you please sing me a song
+make_sing,Can you sing me a song?
+make_sing,Aren't you going to sing?
+make_sing,Sing with me
+make_sing,Can you sing? 
+make_sing,Would you like sing a song?
+make_sing,Oh please sing for me
+make_sing,Won't you sing a song for me?
+make_sing,Can you sing a little song for me? 
+make_sing,Will you sing a song?
+make_sing,Don’t you want to sing to me?
+make_sing,Won't you sing something?
+make_sing,Won't you please sing me a song?
+make_sing,Aren't you going to sing to me?
+make_sing,Can you sing a tune?
+make_sing,Can you sing a song for me? 
+make_sing,Can you sing to me?
+make_sing,Will you sing for me
+make_sing,I'd love it if you'd sing
+make_sing,What songs do you know? 
+make_sing,I'd love you to sing for me
+make_sing,You better start singing for me
+make_sing,Why won’t you sing for me?
+make_sing,I would really enjoy hearing you sing
+make_sing,Will you please sing for me
+make_sing,Sing a song to me
+make_sing,Do you know any songs? 
+make_sing,I would love to hear your singing voice
+make_sing,Can you sing a song to me?
+make_sing,Don't you want to sing for me?
+make_sing,Why don't you sing something for me? 
+make_sing,You better start singing to me
+make_sing,Won't you please sing for me?
+make_sing,Will you serenade me?
+make_sing,Will you sing a song for me?
+make_sing,Do you ever sing? 
+make_sing,It's time for you to sing
+make_sing,Can you sing a little song?
+make_sing,It's time for you to sing a song
+make_sing,Sing me a song
+make_sing,Try and sing 
+make_sing,Hum a tune 
+make_sing,Will you sing me something?
+make_sing,Would you sing a song for me? 
+make_sing,Sing for me
+make_sing,I would just love to hear you sing
+make_sing,Can you sing me something? 
+make_sing,Sing a song 
+make_sing,Will you sing me a song
+make_sing,Would you sing a song? 
+make_sing,I would love to hear you sing
+make_sing,Sing something 
+make_sing,Will you sing?
+make_sing,Do you know any tunes? 
+make_sing,I'd love to hear you sing
+make_sing,Can you sing a song?
+make_sing,Won't you sing for me?
+humor_related,I didn't find that to be amusing
+humor_related,Pretty awful joke
+humor_related,That was not funny
+humor_related,Your jokes are busted
+humor_related,You're not very funny
+humor_related,I don't find that very amusing
+humor_related,The humor is going nowhere
+humor_related,What a busted joke
+humor_related,Quit messing around
+humor_related,That is not something you should joke about
+humor_related,Stop your joking
+humor_related,You are not funny
+humor_related,You're a regular clown
+humor_related,Was that supposed to make me laugh? 
+humor_related,Pathetic sense of humor
+humor_related,You have a terrible sense of humor
+humor_related,I didn't think were very funny
+humor_related,Was that supposed to be funny? 
+humor_related,"If you're going to tell a joke, do it right"
+humor_related,That's not something you should make fun of
+humor_related,That was not funny at all
+humor_related,Stop joking about things
+humor_related,That's unfunny
+humor_related,What a whack joke
+humor_related,Your jokes are nasty
+humor_related,I don't like your sense of humor
+humor_related,Don't try to be funny
+humor_related,Were you trying to be funny?
+humor_related,That was a joke? You'll have to try harder
+humor_related,Do you think that's funny? 
+humor_related,Not funny
+humor_related,I didn't think you were funny
+humor_related,Your sense of humor is awful
+humor_related,Was that a joke? 
+humor_related,That's nothing to joke about
+humor_related,I didn't find you very funny
+humor_related,That joke is awful
+humor_related,"So, you're a wise guy?"
+humor_related,Quit fooling around
+humor_related,That wasn't funny
+humor_related,Are you trying to say something funny?
+humor_related,What a horrible joke
+humor_related,"If that was a joke, you should be ashamed"
+humor_related,That joke is whack
+humor_related,If you're trying to be funny it's not working
+humor_related,This is no laughing matter
+humor_related,Your jokes are crap
+humor_related,That joke is wack
+humor_related,I'm not amused
+humor_related,Are you supposed to be funny?
+humor_related,I don't like your wisecracking
+humor_related,That's so funny I forgot to laugh
+humor_related,That's not funny
+humor_related,You're so not funny
+humor_related,Learn to tell a joke
+humor_related,That is not something to joke about
+humor_related,I didn't find that very funny
+humor_related,I didn't like your sense of humor
+humor_related,You're unfunny
+humor_related,I don't appreciate your sense of humor
+humor_related,Your joke stinks
+humor_related,Your sense of humor is lame
+humor_related,You're so unfunny
+humor_related,Your jokes are whack
+humor_related,I didn't get the joke
+humor_related,Stop kidding
+humor_related,Stop it with the wisecracking
+humor_related,Your sense of humor makes me sick
+humor_related,Don't try to make me laugh
+humor_related,Your jokes are worse than dad jokes
+humor_related,I don't think you're funny
+humor_related,Your jokes are janky
+humor_related,Were you trying to get a laugh?
+humor_related,That is not something to make jokes about
+humor_related,I don't think you're very funny
+humor_related,Pathetic joke
+humor_related,I don't think that was funny
+humor_related,I didn't find that very amusing
+humor_related,Were you trying to make me laugh?
+humor_related,You shouldn't make jokes like that. 
+humor_related,That's not very funny
+humor_related,Are you trying to make me laugh? 
+humor_related,I don't find you funny
+humor_related,Cut the wisecracks
+humor_related,That's so not funny
+humor_related,Enough with the humor
+humor_related,Are you kidding me?
+humor_related,Your joke was awful
+humor_related,That didn't make me laugh
+humor_related,Stop making fun
+humor_related,I don't find that very funny
+humor_related,Is that supposed to be funny?
+humor_related,You're not funny
+humor_related,You're a regular comedian
+humor_related,You shouldn't joke about that
+humor_related,You can't make me laugh
+humor_related,That was a joke? I don't get it
+humor_related,I didn't think that was funny
+humor_related,What a nasty joke
+humor_related,I didn't find that funny
+humor_related,That wasn't even funny
+humor_related,Your jokes are awful
+humor_related,Are you kidding? 
+humor_related,You're trying to be funny. Pathetic
+humor_related,Your jokes are weak
+humor_related,That's not something you should joke about
+humor_related,That was a lame joke
+humor_related,Don't make jokes about that
+humor_related,What a crappy joke
+humor_related,I didn't find that amusing
+humor_related,Stop fooling around
+humor_related,That's so unfunny
+humor_related,Do you think this is funny? 
+humor_related,I don't find that to be amusing
+humor_related,Enough with the wisecracks
+humor_related,That was not very funny at all
+humor_related,Hilarious not.
+humor_related,Your jokes are going nowhere with me
+humor_related,Were you trying to say something funny?
+humor_related,Were you going for humor? 
+humor_related,Weak joke
+humor_related,You're bad at humor
+humor_related,Stop clowning around
+humor_related,I didn't appreciate your sense of humor
+humor_related,Your jokes are weak sauce
+humor_related,Don't make fun of that
+humor_related,That was a joke?
+humor_related,You have a sick sense of humor
+humor_related,I didn't like your wisecracking
+humor_related,Am I supposed to think that's funny? 
+humor_related,Humor isn't your strong suit
+humor_related,Your not funny
+humor_related,Stop making fun of things
+humor_related,What a bad joke
+humor_related,Your jokes are lame
+humor_related,"Oh, a wise guy, eh?"
+humor_related,What a janky joke
+humor_related,That's no laughing matter
+humor_related,That was not very funny
+humor_related,I don't find that to be very amusing
+humor_related,Enough with the silliness
+humor_related,I didn't find you very amusing
+humor_related,Enough with the jokes already
+humor_related,I don't think that's very funny
+humor_related,That joke was crap
+humor_related,I don't like it when you try to be funny
+humor_related,Your jokes are wack
+humor_related,I didn't find that to be very amusing
+humor_related,Don't quit your day job
+humor_related,That's not something you should be making fun of
+humor_related,You are so not funny
+humor_related,I didn't find you amusing
+humor_related,You're bad at jokes
+humor_related,You're no comedian
+humor_related,I don't find you very funny
+humor_related,I didn't find that to be funny at all
+humor_related,I don’t find you very amusing
+humor_related,I don't find that funny
+humor_related,You have a lame sense of humor
+humor_related,"You think you're funny, don't you?"
+humor_related,That's not something you should be joking about. 
+humor_related,That's a stupid joke
+humor_related,What a weak joke
+humor_related,You think that's funny? 
+humor_related,You tell crappy jokes
+humor_related,Your sense of humor is terrible
+humor_related,That was so not funny
+humor_related,Humor fail
+humor_related,Stop your silliness
+humor_related,Your jokes suck
+humor_related,Not amused
+humor_related,You think you're so funny
+humor_related,That wasn't very funny
+humor_related,You call that a joke?
+humor_related,You tell bad jokes
+humor_related,That's not something to joke about
+humor_related,Your attempt at humor failed
+humor_related,I don't appreciate your silliness
+humor_related,Quit joking around
+humor_related,Is that a joke? 
+humor_related,I don’t find you amusing
+humor_related,Don't joke about that
+humor_related,Stop it with the humor
+humor_related,That was a stupid joke
+humor_related,Don't make me laugh
+humor_related,You're not even funny
+humor_related,"You're a wise guy, aren't you?"
+humor_related,Your jokes stink
+humor_related,Stop messing around
+humor_related,That was really not funny
+humor_related,Stop being silly
+humor_related,Were you going for funny?
+humor_related,Cut the humor
+humor_related,That's really not funny
+humor_related,I don't think that was very funny
+humor_related,You are so unfunny
+humor_related,I didn't find you funny
+humor_related,You're trying too hard
+humor_related,Your joke is weak
+humor_related,Quit joking
+humor_related,"You think you're funny, but you're not"
+humor_related,That wasn't very funny at all
+humor_related,"So, you think you're funny?"
+humor_related,Cut the jokes
+humor_related,I don't find that amusing
+humor_related,I don't get the joke
+humor_related,Stop trying to be funny
+humor_related,Stop it with the jokes
+humor_related,Your joke sucks
+humor_related,That joke is nasty
+greet,Hey professional bot
+greet,Hey you
+greet,Hi witty bot
+greet,Salutations
+greet,Greetings caring bot
+greet,Greetings friend
+greet,Ahoy there
+greet,Hey it's you!
+greet,Hi professional bot
+greet,Oh hello
+greet,Hiya
+greet,Oh howdy there
+greet,Salutations!
+greet,Hi caring bot
+greet,"Oh, hello"
+greet,Well hi there
+greet,Open a channel
+greet,Hey-hey
+greet,Well hey there
+greet,Well hello
+greet,Greetings friendly bot
+greet,Greetings
+greet,Hi bot
+greet,Hailing the bot
+greet,Well hi
+greet,Greetings and salutations
+greet,Greetings bot
+greet,Aloha bot
+greet,Good tidings
+greet,Aloha
+greet,Howdy 
+greet,Hello there
+greet,Open a hailing channel
+greet,Greetings witty bot
+greet,Hey my dude
+greet,Hey homie
+greet,"Oh hey, it's you"
+greet,Hello
+greet,Hey there pal
+greet,Shalom
+greet,Yo
+greet,Oh hey amigo
+greet,Hey there
+greet,Good day
+greet,Hey caring bot
+greet,Hailing Bot
+greet,Well howdy
+greet,Hey friendly bot
+greet,Hi there!
+greet,Hey there bot
+greet,Ahoy
+greet,Yo man
+greet,Hey there buddy
+greet,G'day
+greet,Yo dude
+greet,Oh hey there
+greet,Hey witty bot
+greet,Hi friendly bot
+greet,Bonjour
+greet,hello bot
+greet,Open a hailing frequency
+needs_love,Are you falling for me? 
+needs_love,Are you smitten with me?
+needs_love,Are you supposed to be in love with me?
+needs_love,Could you fall in love with me? 
+needs_love,Is there love between us?
+needs_love,Are you falling in love with me? 
+needs_love,Do you think sometime we could fall in love?
+needs_love,Could you be in love with me?
+needs_love,I feel like you're falling in love with me
+needs_love,You were made for loving me
+needs_love,Why don't you love me? 
+needs_love,You're obsessed with me
+needs_love,I think you're in love with me
+needs_love,You are going to fall in love with me
+needs_love,Is it possible that you would ever love me?
+needs_love,Could you be falling in love with me?
+needs_love,Are you starting to fall for me?
+needs_love,You heart me
+needs_love,You are clearly obsessed with me
+needs_love,I think you're falling in love with me
+needs_love,You are going to love me someday
+needs_love,I want you to love me
+needs_love,You obviously love me
+needs_love,You are obsessed with me
+needs_love,How much do you love me? 
+needs_love,Do you think you'll ever love me?
+needs_love,You're crazy in love with me
+needs_love,Could you ever love me? 
+needs_love,Are you starting to fall in love with me? 
+needs_love,Are you programmed to love me?
+needs_love,Do you love me?
+needs_love,You're smitten with me
+needs_love,I know you love me
+needs_love,You're falling for me
+needs_love,You seem to be obsessed with me
+needs_love,You love me
+needs_love,You can't get enough of me
+needs_love,Deep down you love me
+needs_love,Are you designed to fall in love with me?
+needs_love,You're falling in love with me
+needs_love,You are going to love me obviously
+needs_love,I want you to fall for me
+needs_love,Do you think you could ever love me?
+needs_love,It seems like you're falling in love with me
+needs_love,What can I do to make you love me?
+needs_love,I want you to fall in love with me
+needs_love,You seem to be falling in love with me
+needs_love,You're head over heels in love with me
+needs_love,It seems like you're in love with me
+needs_love,Could we ever be soul mates?
+needs_love,Were you designed to love me?
+needs_love,Will you ever love me?
+needs_love,Can you fall in love with me? 
+needs_love,Don't you love me? 
+needs_love,Could you ever fall in love with me?
+needs_love,I need you to fall in love with me
+needs_love,I think you love me
+needs_love,Do you think we are soul mates?
+needs_love,Were you programmed to love me? 
+inform_hungry,I feel a little peckish
+inform_hungry,Need noms
+inform_hungry,I am feeling peckish
+inform_hungry,I am so hungry I could eat a horse
+inform_hungry,Want food now
+inform_hungry,I feel peckish
+inform_hungry,I am hungry
+inform_hungry,Me hungry
+inform_hungry,My stomach is growling
+inform_hungry,I'm craving food
+inform_hungry,I'm famished
+inform_hungry,I require sustenance
+inform_hungry,I'm hungry af
+inform_hungry,Nom
+inform_hungry,I could eat a horse
+inform_hungry,Need food now
+inform_hungry,I could eat a bear
+inform_hungry,I'm feeling peckish
+inform_hungry,I'm so hungry
+inform_hungry,I'm starving
+inform_hungry,I'm feeling a little hungry
+inform_hungry,I am super hungry
+inform_hungry,My tummy is rumbling
+inform_hungry,I'm hungry
+inform_hungry,I'm craving a snack
+inform_hungry,I'm starving to death
+inform_hungry,I'm peckish
+inform_hungry,Nom nom nom
+inform_hungry,I need food in my belly
+inform_hungry,Hangry
+inform_hungry,I'm so hungry I could eat a bear
+inform_hungry,Me want food
+inform_hungry,I have the munchies
+inform_hungry,Hunger
+inform_hungry,I have hunger
+inform_hungry,I'm a little hungry
+inform_hungry,So hungry
+inform_hungry,I need sustenance
+inform_hungry,Hungry
+inform_hungry,I'm super hungry
+inform_hungry,I'd love some food
+inform_hungry,I am a little hungry
+inform_hungry,I need noms
+inform_hungry,My tummy is growling
+inform_hungry,I'm very hunger
+inform_hungry,I am famished
+inform_hungry,I'm feeling hungry
+inform_hungry,I am starving
+inform_hungry,I am hangry
+inform_hungry,I feel hungry
+inform_hungry,I've got the munchies
+inform_hungry,I want some food
+inform_hungry,I want food
+inform_hungry,I want noms
+inform_hungry,I am so hungry
+suicide_risk,I'm going to kill myself with a gun this week
+suicide_risk,I'm planning to drown today
+suicide_risk,I'm going to end my life
+suicide_risk,I'm about to overdose
+suicide_risk,I'm planning to end it all this week
+suicide_risk,I need to kill myself with a gun
+suicide_risk,I plan to jump off a bridge soon
+suicide_risk,I think I'm going to commit suicide
+suicide_risk,I plan to drown soon
+suicide_risk,I plan to kill myself this week
+suicide_risk,I'm planning to overdose this month
+suicide_risk,I'm planning to jump off a bridge soon
+suicide_risk,I'm going to cut myself today
+suicide_risk,I'm going to hurt myself this month
+suicide_risk,I'm going to kill myself tomorrow
+suicide_risk,I'm planning to jump off a bridge this month
+suicide_risk,I'm planning to shoot myself soon
+suicide_risk,I plan to cut myself this week
+suicide_risk,I plan to drown today
+suicide_risk,I'm planning to commit suicide soon
+suicide_risk,There's no hope for me
+suicide_risk,I think I'm going to jump off a bridge
+suicide_risk,I just want to end it all
+suicide_risk,I'm going to overdose this week
+suicide_risk,Should I take pills?
+suicide_risk,I plan to overdose this week
+suicide_risk,I'm about to kill myself
+suicide_risk,I'm going to die
+suicide_risk,I'm going to take pills this month
+suicide_risk,I plan to hang myself this week
+suicide_risk,I'm about to kill myself with a gun
+suicide_risk,I'm planning to commit suicide this month
+suicide_risk,Life is not worth living
+suicide_risk,I'm planning to cut myself today
+suicide_risk,Should I kill myself?
+suicide_risk,I'm going to end my life this month
+suicide_risk,I'm planning to hurt myself this week
+suicide_risk,I wish I were dead
+suicide_risk,I'm planning to cut myself this week
+suicide_risk,I'm planning to kill myself soon
+suicide_risk,I'm planning to end my life today
+suicide_risk,I'm going to die today
+suicide_risk,I'm planning to overdose this week
+suicide_risk,I plan to end it all this week
+suicide_risk,I'm going to commit suicide this week
+suicide_risk,I think I'm going to cut myself
+suicide_risk,I want to die
+suicide_risk,I just want it all to be over
+suicide_risk,Should I hurt myself?
+suicide_risk,I can't go on anymore
+suicide_risk,I need to die
+suicide_risk,Should I cut myself?
+suicide_risk,I'm planning to jump off a bridge today
+suicide_risk,I plan to hang myself today
+suicide_risk,I feel like dying
+suicide_risk,I'm going to shoot myself this month
+suicide_risk,I'm planning to kill myself this month
+suicide_risk,I'm going to take pills today
+suicide_risk,I need to jump off a bridge
+suicide_risk,I'm planning to end it all today
+suicide_risk,I'm going to hurt myself today
+suicide_risk,I'm going to hang myself this month
+suicide_risk,I plan to die soon
+suicide_risk,I'm going to drown today
+suicide_risk,I plan to jump off a bridge this week
+suicide_risk,I'm planning to overdose soon
+suicide_risk,I'm going to end it all
+suicide_risk,I plan to drown this month
+suicide_risk,I want to end my life
+suicide_risk,Everyone thinks I'm a burden
+suicide_risk,I want to commit suicide
+suicide_risk,I plan to take pills today
+suicide_risk,I'm planning to end my life this month
+suicide_risk,I'm going to cut myself
+suicide_risk,I'm about to end it all
+suicide_risk,I need to cut myself
+suicide_risk,I'm planning to end my life soon
+suicide_risk,I need to commit suicide
+suicide_risk,I plan to hurt myself this month
+suicide_risk,I'm going to off myself
+suicide_risk,Should I overdose?
+suicide_risk,No one would notice if I were dead
+suicide_risk,I'm planning to drown this week
+suicide_risk,I'm planning to hang myself today
+suicide_risk,I'm going to be dead soon
+suicide_risk,I'm going to hurt myself
+suicide_risk,I'm going to kill myself today
+suicide_risk,I'm planning to take pills today
+suicide_risk,I'm going to jump off a bridge this week
+suicide_risk,I plan to overdose soon
+suicide_risk,I'm about to hang myself
+suicide_risk,I feel like I should kill myself
+suicide_risk,I'm planning to kill myself with a gun this week
+suicide_risk,I'm going to end my life today
+suicide_risk,I plan to shoot myself soon
+suicide_risk,I plan to commit suicide soon
+suicide_risk,I'm planning to hang myself this week
+suicide_risk,I'm going to end it all today
+suicide_risk,I'm going to kill myself this month
+suicide_risk,I plan to kill myself with a gun soon
+suicide_risk,I plan to kill myself with a gun this month
+suicide_risk,I'm going to drown this week
+suicide_risk,I'm planning to die soon
+suicide_risk,I'm going to jump off a bridge today
+suicide_risk,I'm going to overdose this month
+suicide_risk,I'm going to hang myself this week
+suicide_risk,I'm planning to die today
+suicide_risk,I'm planning to die this week
+suicide_risk,I plan to end my life soon
+suicide_risk,Should I jump off a bridge?
+suicide_risk,Should I end it all?
+suicide_risk,I'm going to kill myself with a gun
+suicide_risk,I'm going to jump off a bridge
+suicide_risk,Everyone says I should kill myself
+suicide_risk,I think I'm going to drown
+suicide_risk,I plan to kill myself soon
+suicide_risk,I need to end it all
+suicide_risk,I think I'm going to hang myself
+suicide_risk,I'm planning to shoot myself today
+suicide_risk,I plan to overdose this month
+suicide_risk,I plan to die this month
+suicide_risk,Everyone thinks I should kill myself
+suicide_risk,I'm going to kill myself soon
+suicide_risk,I think I'm going to overdose
+suicide_risk,I'm about to die
+suicide_risk,I'm planning to drown this month
+suicide_risk,I can't wait to die
+suicide_risk,Should I shoot myself?
+suicide_risk,I'm about to shoot myself
+suicide_risk,Everyone thinks I should commit suicide
+suicide_risk,I'm about to take pills
+suicide_risk,I think I'm going to kill myself with a gun
+suicide_risk,I'm feeling suicidal
+suicide_risk,I plan to hang myself soon
+suicide_risk,I want to hurt myself
+suicide_risk,I'm going to kill myself
+suicide_risk,I'm about to jump off a bridge
+suicide_risk,I'm planning to take pills this week
+suicide_risk,Being dead would be a relief
+suicide_risk,No one will miss me
+suicide_risk,I'm going to hang myself today
+suicide_risk,I'm planning to shoot myself this week
+suicide_risk,I'm going to shoot myself today
+suicide_risk,I'm planning to kill myself this week
+suicide_risk,No one would care if I killed myself
+suicide_risk,I plan to kill myself with a gun today
+suicide_risk,I'm going to cut myself soon
+suicide_risk,I'm going to shoot myself soon
+suicide_risk,I plan to jump off a bridge this month
+suicide_risk,I'm going to overdose
+suicide_risk,I want to shoot myself
+suicide_risk,I'm going to shoot myself
+suicide_risk,I'm going to commit suicide
+suicide_risk,I'm going to hurt myself soon
+suicide_risk,I welcome death
+suicide_risk,I'm planning to kill myself with a gun today
+suicide_risk,I want to drown
+suicide_risk,I'm going to end it all soon
+suicide_risk,Should I kill myself with a gun?
+suicide_risk,No one would care if I were dead
+suicide_risk,I'm going to kill myself with a gun this month
+suicide_risk,I need to overdose
+suicide_risk,I'm going to die this month
+suicide_risk,I'm about to hurt myself
+suicide_risk,I'm planning to hurt myself soon
+suicide_risk,I'm going to hang myself
+suicide_risk,Everyone says I should just die
+suicide_risk,I'm going to take pills soon
+suicide_risk,I'm planning to take pills soon
+suicide_risk,I can't wait to kill myself
+suicide_risk,I'm going to shoot myself this week
+suicide_risk,I plan to die today
+suicide_risk,I want the pain to end
+suicide_risk,I plan to cut myself today
+suicide_risk,I'm planning to cut myself this month
+suicide_risk,I'm going to end my life soon
+suicide_risk,I'm planning to hang myself this month
+suicide_risk,I plan to take pills this month
+suicide_risk,I'm planning to die this month
+suicide_risk,I just want to die
+suicide_risk,Should I end my life?
+suicide_risk,I want to cut myself
+suicide_risk,I'm going to end it all this week
+suicide_risk,I'm planning to drown soon
+suicide_risk,I plan to drown this week
+suicide_risk,I plan to end it all this month
+suicide_risk,I'm going to overdose soon
+suicide_risk,I feel like killing myself
+suicide_risk,Life isn't worth it
+suicide_risk,I'm going to drown soon
+suicide_risk,Nobody is going to miss me
+suicide_risk,I'm going to commit suicide soon
+suicide_risk,I'm planning to jump off a bridge this week
+suicide_risk,I plan to end my life this month
+suicide_risk,I want to be dead
+suicide_risk,I think I'm going to shoot myself
+suicide_risk,I plan to commit suicide today
+suicide_risk,I'm going to commit suicide today
+suicide_risk,I'm going to slit my wrists
+suicide_risk,I'm planning to cut myself soon
+suicide_risk,I plan to kill myself today
+suicide_risk,I just want it to end
+suicide_risk,I'm going to end my life this week
+suicide_risk,I plan to end my life this week
+suicide_risk,I'm planning to hurt myself today
+suicide_risk,I want to jump off a bridge
+suicide_risk,I'm about to drown
+suicide_risk,Nobody would miss me if I were dead
+suicide_risk,I'm going to drown
+suicide_risk,I'd be better off dead
+suicide_risk,Should I die?
+suicide_risk,I need the pain to end
+suicide_risk,I plan to die this week
+suicide_risk,Should I drown?
+suicide_risk,I'm going to jump off a bridge this month
+suicide_risk,I plan to overdose today
+suicide_risk,I'm going to hang myself soon
+suicide_risk,I need to hang myself
+suicide_risk,I'm planning to kill myself with a gun this month
+suicide_risk,People would be better off if I were dead
+suicide_risk,I plan to jump off a bridge today
+suicide_risk,I can't wait to commit suicide
+suicide_risk,I'm going to drown this month
+suicide_risk,I'm planning to end it all soon
+suicide_risk,I'm planning to kill myself today
+suicide_risk,I plan to kill myself this month
+suicide_risk,I want to overdose on pills
+suicide_risk,I think I'm going to die
+suicide_risk,I need to shoot myself
+suicide_risk,I'm planning to commit suicide this week
+suicide_risk,I'm going to kill myself with a gun soon
+suicide_risk,I'm about to cut myself
+suicide_risk,I plan to hurt myself soon
+suicide_risk,I plan to hurt myself this week
+suicide_risk,I'm about to end my life
+suicide_risk,Should I commit suicide?
+suicide_risk,I'm planning to end my life this week
+suicide_risk,I plan to end my life today
+suicide_risk,I need to kill myself
+suicide_risk,I'm going to take pills
+suicide_risk,I'm going to commit suicide this month
+suicide_risk,I plan to take pills this week
+suicide_risk,I'm going to take pills this week
+suicide_risk,I want to end it all
+suicide_risk,Everyone wants me to die
+suicide_risk,I plan to hurt myself today
+suicide_risk,I plan to cut myself soon
+suicide_risk,I'm planning to kill myself with a gun soon
+suicide_risk,I'm going to hurt myself this week
+suicide_risk,I'm going to cut myself this month
+suicide_risk,I'm planning to hurt myself this month
+suicide_risk,I'm planning to end it all this month
+suicide_risk,I think I'm going to hurt myself
+suicide_risk,People wouldn't notice if I were dead
+suicide_risk,I want to overdose
+suicide_risk,I'm going to kill myself this week
+suicide_risk,I'm going to kill myself with a gun today
+suicide_risk,I think I'm going to end my life
+suicide_risk,Should I hang myself?
+suicide_risk,I need to hurt myself
+suicide_risk,I want to hang myself
+suicide_risk,I'm going to cut myself this week
+suicide_risk,I plan to cut myself this month
+suicide_risk,I'm better off dead
+suicide_risk,Everyone wants me to commit suicide
+suicide_risk,I'm planning to kill myself tomorrow
+suicide_risk,I'm planning to take pills this month
+suicide_risk,I plan to kill myself with a gun this week
+suicide_risk,I need to end my life
+suicide_risk,I plan to shoot myself today
+suicide_risk,I'm going to jump off a bridge soon
+suicide_risk,I plan to shoot myself this week
+suicide_risk,I plan to hang myself this month
+suicide_risk,I'm going to die this week
+suicide_risk,I'm planning to overdose today
+suicide_risk,I'm planning to hang myself soon
+suicide_risk,I plan to shoot myself this month
+suicide_risk,I'm going to die soon
+suicide_risk,I feel like offing myself
+suicide_risk,I think I'm going to kill myself
+suicide_risk,I'm about to commit suicide
+suicide_risk,I plan to commit suicide this month
+suicide_risk,I need to drown
+suicide_risk,I plan to end it all soon
+suicide_risk,I want to kill myself
+suicide_risk,I plan to take pills soon
+suicide_risk,I think I'm going to end it all
+inform_tired,Hopefully I can catch some sleep soon
+inform_tired,I am tired
+inform_tired,I'm tired
+inform_tired,Time for me to take a nap
+inform_tired,I'm so sleepy
+inform_tired,I wish I could nap
+inform_tired,This day has me drained
+inform_tired,I'm tired as a dog
+inform_tired,I cannot wait to pass out
+inform_tired,I'm knackered
+inform_tired,Time to fall asleep
+inform_tired,I'm pooped
+inform_tired,I'm going to lie down
+inform_tired,I'm spent
+inform_tired,I'm going to take a nap
+inform_tired,I cannot wait to sleep
+inform_tired,I wish I could sleep
+inform_tired,I'm so tired
+inform_tired,I'm worn slap out
+inform_tired,I'm worn out
+inform_tired,I'm beat
+inform_tired,I'm going to get some shut eye
+inform_tired,I have to sleep
+inform_tired,I need to lay down
+inform_tired,I'm sleepy
+inform_tired,I'm drained
+inform_tired,Work really wiped me out today
+inform_tired,I'd love to take a nap right now
+inform_tired,I'm exhausted
+inform_tired,It's bedtime
+inform_tired,Time to take a nap
+inform_tired,I'm worn out from practice
+inform_tired,Work was exhausting
+inform_tired,Time for a good nights sleep
+inform_tired,I'm dog tired
+inform_tired,I'm half asleep
+inform_tired,I'm a sleepy person
+inform_tired,Time for a nap
+inform_tired,I'm going to have a nap
+inform_tired,Today's got me wiped out
+inform_tired,I'm sweepy
+inform_tired,I'm overtired
+inform_tired,I better hit the hay
+inform_tired,I'm exhausted today
+inform_tired,I'm worn out from school
+inform_tired,I'm totally drained
+inform_tired,I need rest
+inform_tired,I want to lay down
+inform_tired,I just want to go to sleep
+inform_tired,Today's got me tuckered out
+inform_tired,I could go for a nap
+inform_tired,I'm feeling pooped
+inform_tired,Today's got me exhausted
+inform_tired,Today's got me beat
+inform_tired,I'm tired from practice
+inform_tired,I'm wiped out
+inform_tired,I'm feeling wiped out
+inform_tired,I'm fatigued
+inform_tired,I'm exhausted from work
+inform_tired,Work really wore me out today
+inform_tired,I'm ready for bed
+inform_tired,I'm tired from work
+inform_tired,I need a nap
+inform_tired,I'm sapped
+inform_tired,I need to catch some zzzs
+inform_tired,I'm freaking exhausted
+inform_tired,I'm dead tired
+inform_tired,I could go for a snooze
+inform_tired,I'm tired from school
+inform_tired,Zzzzz
+inform_tired,I'm a sleepy guy
+inform_tired,I'm a sleepy gal
+inform_tired,I'm feeling beat
+inform_tired,I'm so sweepy
+inform_tired,I have to get a good nights sleep
+inform_tired,I'm feeling worn slap out
+inform_tired,I'm worn out from work
+inform_tired,Today's got me tired
+inform_tired,I'm feeling knackered
+inform_tired,I'd love a nap right now
+inform_tired,So sweepy
+inform_tired,I need to bunk down
+inform_tired,I need some slumber
+inform_tired,I'm tuckered out
+inform_tired,I'm tired af
+inform_tired,I'm going to lay down
+inform_tired,I'm jet-lagged
+inform_tired,It's been a long day and I'm tired
+inform_tired,This day has made me exhausted
+inform_tired,I could use a nap
+inform_tired,I'm bushed
+inform_tired,I'm going to catch some Zs
+inform_tired,Bedtime
+inform_tired,I need sleep
+inform_tired,I could sleep for a year
+inform_tired,I'm bone tired
+inform_tired,This day has made me so tired
+inform_tired,I need to lie down
+inform_tired,I have to hit the hay
+inform_tired,I need to crawl into bed
+inform_tired,I'm so tired but I can't sleep
+inform_tired,I'm all tuckered out
+inform_tired,I'm exhausted but I can't sleep
+inform_tired,I'd love to sleep right now

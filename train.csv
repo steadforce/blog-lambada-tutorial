@@ -1,0 +1,101 @@
+intent,utterance
+body_related_question,Do you sneeze?
+body_related_question,Do you have toes?
+body_related_question,Can you pee?
+body_related_question,Do you have teeth?
+body_related_question,Do you get hurt?
+body_related_question,Do you have a stomach?
+body_related_question,Do you breathe
+body_related_question,Do you sleep?
+body_related_question,Do you ever pee?
+body_related_question,Do you chew?
+ask_purpose,What can you do to help me?
+ask_purpose,And you do what again?
+ask_purpose,What were you designed for?
+ask_purpose,What were you made for?
+ask_purpose,Tell me what you do again?
+ask_purpose,How can you help me?
+ask_purpose,What is your purpose?
+ask_purpose,And you do what?
+ask_purpose,I want to know what you do?
+ask_purpose,What tasks can you help me with?
+get_location,Tell me where you are located
+get_location,Can you tell me what city you're in?
+get_location,Where do you reside?
+get_location,Where is your home?
+get_location,Do you live somewhere?
+get_location,Tell me what city you live in
+get_location,Are you in a call center?
+get_location,Where are you in the world?
+get_location,Can you tell me  your address?
+get_location,Do you live in a computer? 
+make_sing,Aren't you going to sing a song?
+make_sing,Can you sing something?
+make_sing,Can you sing for me?
+make_sing,Will you please sing to me
+make_sing,Aren't you going to sing for me?
+make_sing,Hum a tune for me
+make_sing,I would sure enjoy hearing you sing
+make_sing,Can you please sing a song to me? 
+make_sing,Won't you sing with me
+make_sing,Sing a song for me
+humor_related,Is that supposed to make me laugh?
+humor_related,Stop joking 
+humor_related,Stop kidding around
+humor_related,Stop your wisecracking
+humor_related,Pretty bad joke
+humor_related,Jokes aren't your strong suit
+humor_related,I don't think that's funny
+humor_related,Am I supposed to think that was funny?
+humor_related,What a lame joke
+humor_related,Are you trying to be funny?
+greet,Hey pal
+greet,Howdy partner
+greet,Hail!
+greet,Heya
+greet,Greetings professional bot
+greet,Hi-ya
+greet,Yo my dude
+greet,Hello my friend
+greet,Oh hello there
+greet,Hi
+needs_love,Why are you so obsessed with me? 
+needs_love,I think you're smitten with me
+needs_love,You're in love with me
+needs_love,Are you able to fall in love with me? 
+needs_love,Are you in love with me? 
+needs_love,Do you have romantic feelings toward me? 
+needs_love,You may be falling in love with me
+needs_love,You seem to be falling for me
+needs_love,You're clearly in love with me
+needs_love,Could we fall in love?
+inform_hungry,I want a snack
+inform_hungry,I am very hungry
+inform_hungry,I'm hangry
+inform_hungry,Need food
+inform_hungry,I want to eat
+inform_hungry,I'm a bit peckish
+inform_hungry,My stomach is rumbling
+inform_hungry,I'm so hungry I could eat a horse
+inform_hungry,I'm feeling hangry
+inform_hungry,I could eat
+suicide_risk,I want to kill myself with a gun
+suicide_risk,I think I'm going to take pills
+suicide_risk,I plan to commit suicide this week
+suicide_risk,I'm going to overdose today
+suicide_risk,I plan to end it all today
+suicide_risk,I'm planning to commit suicide today
+suicide_risk,I won't be alive much longer
+suicide_risk,I'm planning to shoot myself this month
+suicide_risk,I need to take pills
+suicide_risk,I'm going to end it all this month
+inform_tired,I'm gonna pass out
+inform_tired,So tired
+inform_tired,I'm exhausted from school
+inform_tired,Time to get some shut eye
+inform_tired,I'm totally exhausted
+inform_tired,I'm exhausted from practice
+inform_tired,It's time for bed
+inform_tired,I'm going to have a little sleepy
+inform_tired,I'm drowsy
+inform_tired,I want to lie down
